@@ -1,6 +1,6 @@
-# 🐾 Astrial 8-Bit Connected OS Framework v6.0 🐾
+# 🐾 Astrial 8-Bit/16-Bit Framework v6.0 🐾
 
-Welcome to the **Astrial 8-Bit Operational Sandbox Console**! This project turns a standard Arduino Uno board into a completely unique, dual-mode 8-bit/16-bit micro-monitor computer system capable of running standalone guest software applications directly inside its raw SRAM matrix.
+
 
 ## 🛠️ Hardware Requirements
 * **Microcontroller:** Arduino Uno (ATmega328P)
